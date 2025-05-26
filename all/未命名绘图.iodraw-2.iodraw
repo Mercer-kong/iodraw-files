@@ -1,0 +1,83 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram id="WD6GBfjWQIX_NfbubMjW" name="第 1 页">
+    <mxGraphModel dx="868" dy="485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mJgqzaexNFB19XAL-pk--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--1" target="mJgqzaexNFB19XAL-pk--2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--1" value="原料选择" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--2" target="mJgqzaexNFB19XAL-pk--4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--2" value="预处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--4" value="萃取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="mJgqzaexNFB19XAL-pk--9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--9" target="mJgqzaexNFB19XAL-pk--11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--9" value="灭菌" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--11" target="mJgqzaexNFB19XAL-pk--13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--11" value="冷却" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--13" target="mJgqzaexNFB19XAL-pk--15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--13" value="接种" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--15" value="微发酵" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="249" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--19" target="mJgqzaexNFB19XAL-pk--21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--19" value="调配" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--21" target="mJgqzaexNFB19XAL-pk--23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--21" value="灭菌" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--23" target="mJgqzaexNFB19XAL-pk--25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--23" value="冷却" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mJgqzaexNFB19XAL-pk--25" target="mJgqzaexNFB19XAL-pk--27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--25" value="灌装" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJgqzaexNFB19XAL-pk--27" value="检验" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
